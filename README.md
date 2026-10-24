@@ -17,6 +17,7 @@ Check out my repositories to see what I'm building!
 ## Connect with Me
 - GitHub: https://github.com/SUP-18
 - Email: chakkanisuprajaraj18@gmail.com
+- Linkedin:https://www.linkedin.com/in/supraja-raj-chakkani
 
 ---
 *Learning something new and building .* 🚀
