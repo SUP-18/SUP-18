@@ -1,23 +1,50 @@
 # SUPRAJA-RAJ-CHAKKANI
-# Hi, I'm Supraja Raj👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Hi,%I'mSupraja!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
-🎓 Computer Science student  
-💻 Interested in Software Development and Problem Solving    
-🛠️ Building projects and improving my coding skills  
-🤝 Interested in open-source contributions and collaboration  
+<h3 align="center">CSIT Student | Aspiring Software Developer 💻</h3>
 
-## Technical Skills
-- Languages: C, Python
-- Tools:Git, GitHub
-- Currently exploring:Software Development, DSA
-
-## Projects
-Check out my repositories to see what I'm building!
-
-## Connect with Me
-- GitHub: https://github.com/SUP-18
-- Email: chakkanisuprajaraj18@gmail.com
-- Linkedin:https://www.linkedin.com/in/supraja-raj-chakkani
+<p align="center">
+  Learning, building, and turning ideas into projects.
+</p>
 
 ---
-*Learning something new and building .* 🚀
+
+## 🚀 About Me
+
+Hi! I'm Supraja, Computer Science student interested in software development, problem-solving, and AI-powered applications.
+
+-🎓 Computer Science student  
+-💻 Interested in Software Development and Problem Solving    
+-🛠️ Building projects and improving my coding skills  
+-🤝 Interested in open-source contributions and collaboration
+
+## 🛠️ Tech Stack
+
+Languages:C, JavaScript, Python
+
+Tools: Git, GitHub
+
+Currently exploring:Software Development, DSA
+## 🌟 Featured Projects
+Check out my repositories to see what I'm building!
+
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/SUP-18)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/supraja-raj-chakkani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chakkanisuprajaraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Learning something new and building ! ✨
+</p>
