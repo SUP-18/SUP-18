@@ -21,7 +21,7 @@ Hi! I'm Supraja, Computer Science student,interested in software development, pr
 
 ## 🛠️ Tech Stack
 
-Languages:C, JavaScript, Python
+Languages:C, JavaScript, Python,HTML,CSS
 
 Tools: Git, GitHub
 
