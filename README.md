@@ -1,7 +1,7 @@
 # SUPRAJA-RAJ-CHAKKANI
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Hi,%I'mSupraja!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Hi,%I'm Supraja!%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
-<h3 align="center">CSIT Student | Aspiring Software Developer 💻</h3>
+<h3 align="center">Computer Science Student </h3>
 
 <p align="center">
   Learning, building, and turning ideas into projects.
